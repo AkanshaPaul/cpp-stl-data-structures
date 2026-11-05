@@ -1,0 +1,9 @@
+rainfall
+practice
+*.o
+*.out
+vector_out.txt
+sorted_by_rain.txt
+practice_vector_out.txt
+practice_sorted.txt
+.DS_Store

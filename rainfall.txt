@@ -1,0 +1,13 @@
+Year Location Rain
+2010 Seattle 37.5
+2011 Seattle 41.2
+2012 Seattle 39.8
+2010 Seattle 37.5
+2013 Portland 42.1
+2014 Portland 38.6
+2011 Seattle 41.2
+2015 Seattle 36.9
+2016 Portland 44.0
+2013 Portland 42.1
+2017 Seattle 40.3
+2018 Portland 35.7
